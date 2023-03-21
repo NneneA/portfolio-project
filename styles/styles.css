@@ -219,7 +219,7 @@ footer .social-links a:hover {
   }
 
   .hero {
-    padding: 80px 20px;
+    padding: 45px 20px;
   }
 
   .project-description p {
@@ -235,6 +235,10 @@ footer .social-links a:hover {
   .content h1 {
     font-size: 44px;
     line-height: 60px;
+  }
+
+  .content-container {
+    padding: 25px 20px;
   }
 
   .content-container img {
